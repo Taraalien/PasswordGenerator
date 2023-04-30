@@ -1,0 +1,11 @@
+#GeneratorPassword
+
+
+we generate password in GeneratePassword class and In Test class we find the pass ,compare with our pattern hack staffs(fun)
+
+
+tools that we use:
+
+1- java 19
+
+2- passy dependency
