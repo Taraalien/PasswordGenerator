@@ -1,7 +1,7 @@
 #GeneratorPassword
 
 
-we generate password in GeneratePassword class and In Test class we find the pass ,compare with our pattern hack staffs(fun)
+we generate password in GeneratePassword class and In Test class we find the password by comparing with our pattern hack staffs(fun)
 
 
 tools that we use:
